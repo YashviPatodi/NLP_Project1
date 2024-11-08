@@ -1,5 +1,11 @@
-Data Manipulation and Transformation Project
+# "Data Manipulation and Transformation Project"
+This repository contains a project dedicated to data manipulation and transformation techniques applied to a customer churn dataset.The project encompasses functionalities including:
+  1. Efficient handling of CSV files for data import and export.
+  2. Thorough exploration of the dataset's structure.
+  3. Execution of complex arithmetic, relational, and logical operations to prepare the data for analysis.
 
-This repository is a project focused on data manipulation and transformation techniques applied to a customer churn dataset. The project encompasses functionalities including efficient CSV file handling, in-depth exploration of data structures, and the execution of complex arithmetic, relational, and logical operations. 
+Core tasks include:
 
-Key tasks include handling missing values, creating new categorical features, and performing data filtering to extract meaningful insights.
+    -Handling missing values to ensure data completeness.
+    -Creating new categorical features to enhance data segmentation.
+    -Filtering data to extract insights and identify meaningful patterns.
